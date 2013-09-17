@@ -213,7 +213,7 @@ nav a:focus {
 	transform: translateY(-100%);
 }
 
-/* Effect 5: same word slide in and border bottom */
+/* Effect 6: right angle slides down over title  */
 .cl-effect-6 a {
 	margin: 0 10px;
 	padding: 10px 20px;
