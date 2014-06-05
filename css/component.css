@@ -496,6 +496,7 @@ nav a:focus {
 	-webkit-transition: max-width 0.5s;
 	-moz-transition: max-width 0.5s;
 	transition: max-width 0.5s;
+	white-space: nowrap;
 }
 
 .cl-effect-11 a:hover::before,
